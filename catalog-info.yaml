@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Youtube-Clone
+  annotations:
+    github.com/project-slug: Mickaz89/Youtube-Clone
+spec:
+  type: other
+  lifecycle: unknown
